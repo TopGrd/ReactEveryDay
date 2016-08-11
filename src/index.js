@@ -7,6 +7,7 @@ import Avatar from './component/Avatar';
 import Check from './component/Check';
 import OpacityWord from './component/OpacityWord';
 import Input from './component/Input';
+import Select from './component/Select';
 import './index.css';
 
 ReactDOM.render(
@@ -23,3 +24,5 @@ ReactDOM.render(
     <OpacityWord name="TopGrd"></OpacityWord>, document.getElementById('opa'));
 ReactDOM.render(
     <Input/>, document.getElementById('input'))
+ReactDOM.render(
+    <Select/>, document.getElementById('select'))
