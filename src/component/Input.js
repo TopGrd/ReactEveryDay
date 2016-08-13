@@ -14,12 +14,18 @@ export default class Input extends Component {
         })
     }
 
+    clickHandler() {
+        this.refs.focusIt.focus();
+        this.setState({value: 'NULL'});
+    }
+
     render() {
         var value = this.state.value;
         return (
             <div>
-                <input type='text' value={value} onChange={this.changeHandler.bind(this)}/>
+                <input type='text' value={value}  ref="focusIt" onChange={this.changeHandler.bind(this)} />
                 <p>{value}</p>
+                <input type='text' defaultValue="focus" onClick={this.clickHandler.bind(this)} />
             </div>
         )
     }

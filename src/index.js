@@ -25,4 +25,6 @@ ReactDOM.render(
 ReactDOM.render(
     <Input/>, document.getElementById('input'))
 ReactDOM.render(
-    <Select/>, document.getElementById('select'))
+    <Select/>, document.getElementById('select'), function () {
+        console.warn('react select loaded!');
+    })

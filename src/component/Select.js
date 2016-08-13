@@ -8,7 +8,11 @@ export default class Select extends Component {
         }
     }
 
-    changeHandler(e) {
+    componentWillUpdate() {
+        console.log('loa');
+    }
+
+    changeHandler = (e) => {
         this.setState({
             value: e.target.value
         }, function () {
@@ -31,12 +35,11 @@ export default class Select extends Component {
     }
 
     render() {
-        var value = this.state.value;
         var plane = this.state.plane;
 
         return (
             <div>Choose Your Plane !
-                <select defaultValue='C' onChange={this.changeHandler.bind(this)}>
+                <select defaultValue='C' onChange={this.changeHandler}>
                     <option value="A">Sun</option>
                     <option value="B">Moon</option>
                     <option value="C">Earth</option>
