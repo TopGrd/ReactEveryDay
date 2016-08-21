@@ -8,6 +8,7 @@ import Check from './component/Check';
 import OpacityWord from './component/OpacityWord';
 import Input from './component/Input';
 import Select from './component/Select';
+import MovieInfo from './component/MovieInfo';
 import './index.css';
 
 ReactDOM.render(
@@ -26,5 +27,7 @@ ReactDOM.render(
     <Input/>, document.getElementById('input'))
 ReactDOM.render(
     <Select/>, document.getElementById('select'), function () {
-        console.warn('react select loaded!');
-    })
+    console.warn('react select loaded!');
+});
+ReactDOM.render(
+    <MovieInfo source='./src/json/burn.json'/>, document.getElementById('movie'));

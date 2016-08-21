@@ -1,0 +1,56 @@
+{
+    "rating": {
+        "max": 10,
+        "average": 8.2,
+        "stars": "40",
+        "min": 0
+    },
+    "reviews_count": 200,
+    "wish_count": 11215,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+        "small": "http://img3.doubanio.com\/view\/movie_poster_cover\/ipst\/public\/p2373180408.jpg",
+        "large": "http://img3.doubanio.com\/view\/movie_poster_cover\/lpst\/public\/p2373180408.jpg",
+        "medium": "http://img3.doubanio.com\/view\/movie_poster_cover\/spst\/public\/p2373180408.jpg"
+    },
+    "alt": "https:\/\/movie.douban.com\/subject\/26376454\/",
+    "id": "26376454",
+    "mobile_url": "https:\/\/movie.douban.com\/subject\/26376454\/mobile",
+    "title": "\u6211\u4eec\u8bde\u751f\u5728\u4e2d\u56fd",
+    "do_count": null,
+    "share_url": "http:\/\/m.douban.com\/movie\/subject\/26376454",
+    "seasons_count": null,
+    "schedule_url": "https:\/\/movie.douban.com\/subject\/26376454\/cinema\/",
+    "episodes_count": null,
+    "countries": ["\u7f8e\u56fd", "\u82f1\u56fd", "\u4e2d\u56fd\u5927\u9646"],
+    "genres": ["\u5267\u60c5", "\u7eaa\u5f55\u7247"],
+    "collect_count": 14752,
+    "casts": [{
+        "alt": "https:\/\/movie.douban.com\/celebrity\/1027798\/",
+        "avatars": {
+            "small": "http://img3.doubanio.com\/img\/celebrity\/small\/7257.jpg",
+            "large": "http://img3.doubanio.com\/img\/celebrity\/large\/7257.jpg",
+            "medium": "http://img3.doubanio.com\/img\/celebrity\/medium\/7257.jpg"
+        },
+        "name": "\u5468\u8fc5",
+        "id": "1027798"
+    }],
+    "current_season": null,
+    "original_title": "Born in China",
+    "summary": "\u300a\u6211\u4eec\u8bde\u751f\u5728\u4e2d\u56fd\u300b\u662f\u8fea\u58eb\u5c3c\u81ea\u7136\uff08Disney Nature\uff09\u54c1\u724c\u4e0b\u9996\u90e8\u4ee5\u56fd\u5bb6\u5730\u57df\u62cd\u6444\u7684\u81ea\u7136\u9898\u6750\u7535\u5f71\uff0c\u5411\u4e16\u754c\u5c55\u73b0\u4e86\u4e2d\u56fd\u72ec\u6811\u4e00\u5e1c\u7684\u4e30\u5bcc\u81ea\u7136\u5730\u8c8c\u548c\u7279\u6709\u7684\u795e\u5947\u7269\u79cd\u3002\u5f71\u7247\u8bb2\u8ff0\u4e86\u4e09\u4e2a\u73cd\u7a00\u52a8\u7269\u7684\u5bb6\u5ead\u8da3\u4e8b\uff1a \u6816\u4e8e\u56db\u5ddd\u7af9\u6797\u7684\u4e2d\u56fd\u81f3\u5b9d\u5927\u718a\u732b\u4e2b\u4e2b\u3001\u7f8e\u7f8e\u6bcd\u5973\u7684\u5356\u840c\u65e5\u5e38\u548c\u76f8\u805a\u522b\u79bb\u7684\u7b11\u548c\u6cea\uff1b\u9690\u5c45\u4e8e\u96ea\u57df\u9ad8\u539f\u7684\u795e\u79d8\u751f\u7075\u96ea\u8c79\u8fbe\u5a03\u4e00\u5bb6\uff0c\u5982\u4f55\u5728\u9006\u5883\u6c42\u751f\u7684\u8270\u8f9b\uff1b\u6500\u7f18\u4e8e\u795e\u519c\u67b6\u5bc6\u6797\u7684\u9017\u8da3\u987d\u7ae5\u91d1\u4e1d\u7334\u6dd8\u6dd8\uff0c\u56e0\u4e3a\u5bb6\u4e2d\u201c\u4e8c\u80ce\u201d\u7684\u51fa\u73b0\u88ab\u5ffd\u89c6\u800c\u52a0\u5165\u6d41\u6d6a\u56e2\u4f53\u540e\u6d6a\u5b50\u56de\u5934\u7684\u7acb\u5fd7\u6545\u4e8b\u3002\u6b64\u5916\uff0c\u88ab\u5949\u82e5\u795e\u7075\u7684\u53ef\u53ef\u897f\u91cc\u8349\u539f\u4e0a\u7684\u85cf\u7f9a\u7f8a\u548c\u52a8\u7269\u5708\u65c5\u884c\u5bb6\u7684\u4e39\u9876\u9e64\u4e5f\u7eb7\u7eb7\u5ba2\u4e32\u3002",
+    "subtype": "movie",
+    "directors": [{
+        "alt": "https:\/\/movie.douban.com\/celebrity\/1005319\/",
+        "avatars": {
+            "small": "http://img3.doubanio.com\/img\/celebrity\/small\/1368697548.88.jpg",
+            "large": "http://img3.doubanio.com\/img\/celebrity\/large\/1368697548.88.jpg",
+            "medium": "http://img3.doubanio.com\/img\/celebrity\/medium\/1368697548.88.jpg"
+        },
+        "name": "\u9646\u5ddd",
+        "id": "1005319"
+    }],
+    "comments_count": 7888,
+    "ratings_count": 13627,
+    "aka": ["\u8bde\u751f\u4e8e\u4e2d\u56fd"]
+}
